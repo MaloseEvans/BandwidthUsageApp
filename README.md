@@ -3,3 +3,10 @@ This project aims to develop a standalone software application using Python that
 
 Display all the processes that use data connection, sent and received per PID/Application
 This requires administrators priviledges 
+
+
+## CORE OBJECTIVES
+**Real-time Tracking:** Monitors upload and download metrics
+**Categorization:** Attribute data usage to specific application names (e.g. Chrome, Mail)
+**Transparency:** Highlight “hidden” background processes that may be consuming data.
+
