@@ -6,7 +6,7 @@ This requires administrators priviledges
 
 
 ## CORE OBJECTIVES
-**Real-time Tracking:** Monitors upload and download metrics
-**Categorization:** Attribute data usage to specific application names (e.g. Chrome, Mail)
-**Transparency:** Highlight “hidden” background processes that may be consuming data.
+**-Real-time Tracking:** Monitors upload and download metrics
+**-Categorization:** Attribute data usage to specific application names (e.g. Chrome, Mail)
+**-Transparency:** Highlight “hidden” background processes that may be consuming data.
 
