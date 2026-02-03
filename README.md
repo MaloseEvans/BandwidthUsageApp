@@ -7,6 +7,16 @@ This requires administrators priviledges
 
 ## CORE OBJECTIVES
 **Real-time Tracking:** Monitors upload and download metrics<br>
-**Categorization:** Attribute data usage to specific application names (e.g. Chrome, Mail)<br>
+**Categorization:** Attribute data usage to specific application names (e.g. Chrome, Mail)  
+
 **Transparency:** Highlight “hidden” background processes that may be consuming data.<br>
+<br>
+<br>
+## TECHNICAL ARCHITECTURE
+The application is built using Python3.x and leverages the python libraries:<br>
+psutil
+time
+os
+ctypes
+collections
 
